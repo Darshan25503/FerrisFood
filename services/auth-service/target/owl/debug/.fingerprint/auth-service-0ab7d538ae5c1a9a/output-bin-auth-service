@@ -1,6 +1,0 @@
-2025-09-26T09:04:15.958Z INFO  [rustowlc::core] start borrowck of DefId(0:3 ~ auth_service[0cef]::main)
-2025-09-26T09:04:15.959Z INFO  [rustowlc::core::analyze] facts of DefId(0:3 ~ auth_service[0cef]::main) prepared; start analyze of DefId(0:3 ~ auth_service[0cef]::main)
-2025-09-26T09:04:15.960Z INFO  [rustowlc::core] borrow checked: 1 / 1
-2025-09-26T09:04:15.960Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
-2025-09-26T09:04:15.961Z INFO  [rustowlc::core::analyze] borrow check finished
-2025-09-26T09:04:15.969Z INFO  [rustowlc::core] analyzed one item of /home/ad.rapidops.com/nibha.bharati/Desktop/practice/FerrisFood/services/auth-service/src/main.rs
