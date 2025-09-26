@@ -1,5 +1,5 @@
 [package]
-name = "ferrisFood"
+name = "order-service"
 version = "0.1.0"
 edition = "2024"
 
